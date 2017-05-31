@@ -1,11 +1,13 @@
 Project Name
    PriorityQueue
 
+Author
+      Dandan Lin
+Date
+      04/27/2017
+
 Completed Parts
    All parts of this assignment were completed
-
-Problem Encountered
-
 
 Files Included
    Input Files
@@ -50,8 +52,3 @@ Compiling and Executing
          3. TestNewInsert
             ./TestNewInsert100_numbers.txt 100_test_search.txt
             ./TestNewInsert 1000_numbers.txt 1000_test_search.txt
-
-Author
-      Dandan Lin
-Date
-      04/27/2017
